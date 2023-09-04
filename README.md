@@ -3,5 +3,4 @@
 - 🌱 I’m currently learning Django fullstack
 - 💞️ I’m looking to collaborate on Fullstack application.
 - 📫 Here is my email id :- sumitphadke2001@gmail.com
-- contributor @ Techedu.works
-- 
+-    contributor @ Techedu.works.
